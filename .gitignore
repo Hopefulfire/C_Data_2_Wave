@@ -1,0 +1,9 @@
+main.ilk
+main.pdb
+vc140.pdb
+main.exe
+main.obj
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/settings.json
+.vscode/tasks.json
